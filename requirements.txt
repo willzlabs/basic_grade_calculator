@@ -1,0 +1,6 @@
+# Student Grade Calculator — Dependencies
+#
+# This project uses only the Python standard library.
+# No external packages are required.
+#
+# Minimum Python version: 3.6+
